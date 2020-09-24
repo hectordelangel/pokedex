@@ -1,6 +1,6 @@
 # pokedex
 
-A new Flutter application.
+Pokedex using pokeapi.co
 
 ## Getting Started
 
